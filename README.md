@@ -1,5 +1,7 @@
 # bakalarka
-Bakalarska praca Michal Macej
+Bakalarska praca Michal Macej.
+
+
 Na spustenie programu je potrebne mat nainstalovany python 2.7 a program volatility https://github.com/volatilityfoundation/volatility dalej treba mat aj plugin Hollowfind https://github.com/monnappa22/HollowFind
 Tieto programy su v subore program_bakalarka.rar 
 Dalej je potrebne uistit sa ze cesty v konfiguracnych suboroch  agenta (MultiagentovySystem\Agent\config) su nastavene spravne na vstupne a vystupne subory v ontologii MultiagentovySystem\Agent\memory_init).
